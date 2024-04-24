@@ -1,0 +1,3 @@
+C:\Users\maxim\source\repos\CalculatorApp2\CalculatorApp2\x64\Debug\CalculatorApp2.vcxproj.AssemblyReference.cache
+C:\Users\maxim\source\repos\CalculatorApp2\CalculatorApp2\x64\Debug\CalculatorApp2.MainForm.resources
+C:\Users\maxim\source\repos\CalculatorApp2\CalculatorApp2\x64\Debug\CalculatorApp2.vcxproj.GenerateResource.cache
