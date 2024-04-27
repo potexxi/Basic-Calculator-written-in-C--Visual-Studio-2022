@@ -436,9 +436,10 @@ private: System::Void btnplus_Click(System::Object^ sender, System::EventArgs^ e
 }
 private: System::Void btnminus_Click(System::Object^ sender, System::EventArgs^ e) {
 
-	if (textbox1->Text == " " || textbox1->Text != "-")
+	if (textbox1->Text == "" && textbox1->Text != "-")
 		textbox1->Text += "-";
-    else if (textbox1->Text != "") {
+
+    else if (textbox1->Text != "" && textbox1->Text != "-") {
 		first = double::Parse(textbox1->Text);
 		Operator = '-';
 		textbox1->Clear();
