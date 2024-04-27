@@ -7,4 +7,15 @@ In the meantime, if you're curious about the project or want to stay in the loop
 Thanks for your patience and support. Together, we'll get this Calculator up and running smoothly in no time!
 
 Take care,
-potexxi
+potexxi 24.04.2024
+
+
+
+
+Hey there,
+
+Great news! I've managed to crack the code and solve the bug in the calculator project. You can now download the finalized version from the x64 folder.
+Thanks for your patience and support throughout this process. Happy calculating!
+
+Best regards,
+potexxi 27.04.2024
